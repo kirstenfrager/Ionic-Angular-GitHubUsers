@@ -1,6 +1,5 @@
-#**Ionic2/Angular2 GitHub Users Mobile App**
+# **Ionic2/Angular2 GitHub Users Mobile App**
 
-------------
 
 Used the tutorial https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2 to create a mobile app using Ionic 2 and Angular 2. The GitHub API was called to display users, list their followers etc and be able to search for users.
 
